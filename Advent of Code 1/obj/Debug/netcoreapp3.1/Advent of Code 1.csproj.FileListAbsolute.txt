@@ -1,0 +1,11 @@
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\bin\Debug\netcoreapp3.1\Advent of Code 1.exe
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\bin\Debug\netcoreapp3.1\Advent of Code 1.deps.json
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\bin\Debug\netcoreapp3.1\Advent of Code 1.runtimeconfig.json
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\bin\Debug\netcoreapp3.1\Advent of Code 1.runtimeconfig.dev.json
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\bin\Debug\netcoreapp3.1\Advent of Code 1.dll
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\bin\Debug\netcoreapp3.1\Advent of Code 1.pdb
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\obj\Debug\netcoreapp3.1\Advent of Code 1.csprojAssemblyReference.cache
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\obj\Debug\netcoreapp3.1\Advent of Code 1.AssemblyInfoInputs.cache
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\obj\Debug\netcoreapp3.1\Advent of Code 1.AssemblyInfo.cs
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\obj\Debug\netcoreapp3.1\Advent of Code 1.dll
+C:\Users\wwest\source\repos\Advent of Code 1\Advent of Code 1\obj\Debug\netcoreapp3.1\Advent of Code 1.pdb

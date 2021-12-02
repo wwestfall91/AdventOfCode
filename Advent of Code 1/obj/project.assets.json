@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wwest\\source\\repos\\Advent of Code 1\\Advent of Code 1\\Advent of Code 1.csproj",
-      "projectName": "Advent of Code 1",
-      "projectPath": "C:\\Users\\wwest\\source\\repos\\Advent of Code 1\\Advent of Code 1\\Advent of Code 1.csproj",
+      "projectUniqueName": "C:\\Users\\wwest\\source\\repos\\Advent of Code 1\\Advent of Code 1\\Advent of Code.csproj",
+      "projectName": "Advent of Code",
+      "projectPath": "C:\\Users\\wwest\\source\\repos\\Advent of Code 1\\Advent of Code 1\\Advent of Code.csproj",
       "packagesPath": "C:\\Users\\wwest\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wwest\\source\\repos\\Advent of Code 1\\Advent of Code 1\\obj\\",
       "projectStyle": "PackageReference",

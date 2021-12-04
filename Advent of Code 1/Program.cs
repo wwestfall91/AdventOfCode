@@ -10,7 +10,7 @@ namespace Advent_of_Code_1
     {
         static void Main(string[] args)
         {
-            IPuzzle puzzle = Day3.Instance;
+            IPuzzle puzzle = Day4.Instance;
 
             Console.WriteLine($"Running puzzle: {puzzle}");
             puzzle.Run();

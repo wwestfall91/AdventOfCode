@@ -10,9 +10,11 @@
     <Content Include="bin\Debug\netcoreapp3.1\Day3TestInput.txt" />
     <Content Include="bin\Debug\netcoreapp3.1\Day3Input.txt" />
     <Content Include="bin\Debug\netcoreapp3.1\day2.txt" />
+    <Content Include="bin\Debug\netcoreapp3.1\Day4Input.txt" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\Day4TestInput.txt" />
     <None Include="bin\Debug\netcoreapp3.1\input2.txt" />
     <None Include="bin\Debug\netcoreapp3.1\input.txt" />
   </ItemGroup>
